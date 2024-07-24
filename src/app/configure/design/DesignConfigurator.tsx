@@ -1,7 +1,7 @@
 'use client'
 
 import HandleComponent from '@/components/HandleComponent'
-import { AspectRatio } from '@/components/ui/aspect-ratio'
+import { AspectRatio } from '@/components/ui/ratio'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { cn, formatPrice } from '@/lib/utils'
 import NextImage from 'next/image'
